@@ -1,5 +1,42 @@
-# 💫 About Me:
-<h2>👋 Hi there! I'm Vikas Saxena.</h2><br>  A passionate frontend and full-stack developer with a love for coding and technology. I thrive on transforming ideas into reality through clean and efficient code.<br><br> 🌱 Current Focus<br>   I’m currently diving deep into frontend and full-stack development and exploring the latest trends in development. <br>   I'm particularly interested in how full stack development can be leveraged to create meaningful solutions.<br><br>  📈 Goals<br>   I’m on a mission to  become a full-stack developer, contribute to open source. I believe in lifelong learning and continuously seek opportunities to enhance my skills and knowledge.<br><br>  🌍 Connect with Me<br>    I love connecting with fellow developers and tech enthusiasts! Feel free to reach out:<br>    - 💬 Email: vikassaxena123578@gmail.com<br><br>  🌟 Fun Facts<br>    - I enjoy traveling.<br>    - In my spare time, you might find me with my amazing friends 👯, discussing random  topics with them and reading tech blogs 👨‍💻.<br>    - I’m currently learning new skills and technologies in Full Stack Development<br><br>Thanks for stopping by my profile! 🚀<br><br>
+### 💫 About Me:
+
+<h1 align="center">👋 Hi there! I'm Vikas Saxena</h1>
+
+<p align="center">
+    A passionate frontend and full-stack developer with a love for coding and technology. I thrive on transforming ideas into reality through clean and efficient code.
+</p>
+
+---
+
+### 🌱 **<div align="center">Current Focus</div>**
+
+I’m currently diving deep into frontend and full-stack development and exploring the latest trends in development. I'm particularly interested in how full stack development can be leveraged to create meaningful solutions.
+
+---
+
+### 📈 **<div align="center">Career Goals</div>**
+
+I’m on a mission to become a skilled full-stack developer and contribute to open-source projects. I believe in lifelong learning and continuously seek opportunities to enhance my skills and knowledge.
+
+---
+
+### 🌍 **<div align="center">Connect with Me</div>**
+
+I love connecting with fellow developers and tech enthusiasts! Feel free to reach out:
+
+- 💬 **Email:** vikassaxena123578@gmail.com
+
+---
+
+### 🌟 **<div align="center">Fun Facts</div>**
+
+- I enjoy traveling ✈️.
+- In my spare time, you might find me with my amazing friends 👯, discussing random topics with them and reading tech blogs 👨‍💻.
+- I’m currently learning new skills and technologies in Full Stack Development.
+
+---
+
+<p align="center">Thanks for stopping by my profile! 🚀</p>
 
 
 ## 🌐 Socials:
