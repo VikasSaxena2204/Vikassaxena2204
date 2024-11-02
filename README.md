@@ -6,19 +6,19 @@
 
 ---
 
-### 💫 **<div align="center">About Me</div>**
+###  **<div align="center">💫 About Me</div>**
 
-I’m currently diving deep into frontend and full-stack development and exploring the latest trends in development. I'm particularly interested in how full stack development can be leveraged to create meaningful solutions.
+I’m currently diving deep into frontend and full-stack development and exploring the latest trends in development. I'm particularly interested in how full-stack development can be leveraged to create meaningful solutions.
 
 ---
 
-### 📈 **<div align="center">Career Goals</div>**
+### **<div align="center">📈 Career Goals</div>**
 
 I’m on a mission to become a skilled full-stack developer and contribute to open-source projects. I believe in lifelong learning and continuously seek opportunities to enhance my skills and knowledge.
 
 ---
 
-### 🌍 **<div align="center">Connect with Me</div>**
+### **<div align="center">🌍 Connect with Me</div>**
 
 I love connecting with fellow developers and tech enthusiasts! Feel free to reach out:
 
@@ -26,7 +26,7 @@ I love connecting with fellow developers and tech enthusiasts! Feel free to reac
 
 ---
 
-### 🌟 **<div align="center">Fun Facts</div>**
+###  **<div align="center">🌟 Fun Facts</div>**
 
 - I enjoy traveling ✈️.
 - In my spare time, you might find me with my amazing friends 👯, discussing random topics with them and reading tech blogs 👨‍💻.
@@ -34,14 +34,14 @@ I love connecting with fellow developers and tech enthusiasts! Feel free to reac
 
 ---
 
-### 🌐 **<div align="center">Socials</div>**
+###  **<div align="center">🌐 Socials</div>**
 
 **<div align="center">
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/2204-vikas-saxena/) 
 </div>**
 ---
 
-### 💻 **<div align="center">Tech Stack</div>**
+###  **<div align="center">💻 Tech Stack</div>**
 
 **<div align="center">
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -66,7 +66,7 @@ I love connecting with fellow developers and tech enthusiasts! Feel free to reac
 </div>**
 ---
 
-### 📊 **<div align="center">GitHub Stats</div>**
+###  **<div align="center">📊 GitHub Stats</div>**
 
 **<div align="center">
 ![](https://github-readme-stats.vercel.app/api?username=VikasSaxena2204&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
@@ -75,14 +75,14 @@ I love connecting with fellow developers and tech enthusiasts! Feel free to reac
 </div>**
 ---
 
-### 🏆 **<div align="center">GitHub Trophies</div>**
+###  **<div align="center">🏆 GitHub Trophies</div>**
 
 **<div align="center">
 ![](https://github-profile-trophy.vercel.app/?username=VikasSaxena2204&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 </div>**
 ---
 
-### ✍️ **<div align="center">Random Dev Quote</div>**
+###  **<div align="center">✍️ Random Dev Quote</div>**
 **<div align="center">
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 </div>**
