@@ -71,22 +71,22 @@ I love connecting with fellow developers and tech enthusiasts! Feel free to reac
 
 ###  **<div align="center">📊 GitHub Stats</div>**
 
-<div align="center">
+**<div align="center">
 ![](https://github-readme-stats.vercel.app/api?username=VikasSaxena2204&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=VikasSaxena2204&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VikasSaxena2204&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-</div>
+</div>**
 
 ###  **<div align="center">🏆 GitHub Trophies</div>**
 
-<div align="center">
+**<div align="center">
 ![](https://github-profile-trophy.vercel.app/?username=VikasSaxena2204&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-</div>
+</div>**
 
 ###  **<div align="center">✍️ Random Dev Quote</div>**
-<div align="center">
+-- **<div align="center">
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-</div>
+</div>**
 
 <p align="center">
     <a href="https://visitcount.itsvg.in">
