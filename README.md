@@ -1,33 +1,27 @@
 <h1 align="center">👋 Hi there! I'm Vikas Saxena</h1>
 
 <p align="center">
-    A passionate frontend and full-stack developer with a love for coding and technology. I thrive on transforming ideas into reality through clean and efficient code.
+    A passionate front-end and full-stack developer with a love for coding and technology. I thrive on transforming ideas into reality through clean and efficient code.
 </p>
-
----
 
 ###  **<div align="center">💫 About Me</div>**
 
 <p align="center">
 I’m currently diving deep into frontend and full-stack development and exploring the latest trends in development. I'm particularly interested in how full-stack development can be leveraged to create meaningful solutions.
 </p>
----
 
 ### **<div align="center">📈 Career Goals</div>**
 
 <p align="center">
 I’m on a mission to become a skilled full-stack developer and contribute to open-source projects. I believe in lifelong learning and continuously seek opportunities to enhance my skills and knowledge.
 </p>
----
 
 ### **<div align="center">🌍 Connect with Me</div>**
 
-<p align="center">
+
 I love connecting with fellow developers and tech enthusiasts! Feel free to reach out:
 
 - 💬 **Email:** vikassaxena123578@gmail.com
-</p>
----
 
 ###  **<div align="center">🌟 Fun Facts</div>**
 
@@ -35,14 +29,12 @@ I love connecting with fellow developers and tech enthusiasts! Feel free to reac
 - In my spare time, you might find me with my amazing friends 👯, discussing random topics with them and reading tech blogs 👨‍💻.
 - I’m currently learning new skills and technologies in Full Stack Development.
 
----
 
 ###  **<div align="center">🌐 Socials</div>**
 
 **<div align="center">
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/2204-vikas-saxena/) 
 </div>**
----
 
 ###  **<div align="center">💻 Tech Stack</div>**
 
@@ -67,7 +59,7 @@ I love connecting with fellow developers and tech enthusiasts! Feel free to reac
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 </div>**
----
+
 
 ###  **<div align="center">📊 GitHub Stats</div>**
 
@@ -84,7 +76,7 @@ I love connecting with fellow developers and tech enthusiasts! Feel free to reac
 </div>**
 
 ###  **<div align="center">✍️ Random Dev Quote</div>**
--- **<div align="center">
+**<div align="center">
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 </div>**
 
