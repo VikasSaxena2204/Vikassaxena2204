@@ -78,9 +78,9 @@ I love connecting with fellow developers and tech enthusiasts! Feel free to reac
 ---
 
 ### ✍️ **<div align="center">Random Dev Quote</div>**
-
+**<div align="center">
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+</div>**
 ---
 
 <p align="center">
