@@ -8,22 +8,25 @@
 
 ###  **<div align="center">💫 About Me</div>**
 
+<p align="center">
 I’m currently diving deep into frontend and full-stack development and exploring the latest trends in development. I'm particularly interested in how full-stack development can be leveraged to create meaningful solutions.
-
+</p>
 ---
 
 ### **<div align="center">📈 Career Goals</div>**
 
+<p align="center">
 I’m on a mission to become a skilled full-stack developer and contribute to open-source projects. I believe in lifelong learning and continuously seek opportunities to enhance my skills and knowledge.
-
+</p>
 ---
 
 ### **<div align="center">🌍 Connect with Me</div>**
 
+<p align="center">
 I love connecting with fellow developers and tech enthusiasts! Feel free to reach out:
 
 - 💬 **Email:** vikassaxena123578@gmail.com
-
+</p>
 ---
 
 ###  **<div align="center">🌟 Fun Facts</div>**
@@ -68,25 +71,22 @@ I love connecting with fellow developers and tech enthusiasts! Feel free to reac
 
 ###  **<div align="center">📊 GitHub Stats</div>**
 
-**<div align="center">
+<div align="center">
 ![](https://github-readme-stats.vercel.app/api?username=VikasSaxena2204&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=VikasSaxena2204&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VikasSaxena2204&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-</div>**
----
+</div>
 
 ###  **<div align="center">🏆 GitHub Trophies</div>**
 
-**<div align="center">
+<div align="center">
 ![](https://github-profile-trophy.vercel.app/?username=VikasSaxena2204&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-</div>**
----
+</div>
 
 ###  **<div align="center">✍️ Random Dev Quote</div>**
-**<div align="center">
+<div align="center">
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-</div>**
----
+</div>
 
 <p align="center">
     <a href="https://visitcount.itsvg.in">
