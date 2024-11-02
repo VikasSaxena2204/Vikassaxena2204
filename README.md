@@ -83,12 +83,6 @@ I love connecting with fellow developers and tech enthusiasts! Feel free to reac
 
 ---
 
-### 🔝 **<div align="center">Top Contributed Repo</div>**
-
-![](https://github-contributor-stats.vercel.app/api?username=VikasSaxena2204&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
 <p align="center">
     <a href="https://visitcount.itsvg.in">
         <img src="https://visitcount.itsvg.in/api?id=VikasSaxena2204&icon=6&color=0" />
