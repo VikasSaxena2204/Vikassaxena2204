@@ -18,10 +18,11 @@ I’m on a mission to become a skilled full-stack developer and contribute to op
 
 ### **<div align="center">🌍 Connect with Me</div>**
 
-
+<p align="center">
 I love connecting with fellow developers and tech enthusiasts! Feel free to reach out:
 
-- 💬 **Email:** vikassaxena123578@gmail.com
+💬 **Email:** vikassaxena123578@gmail.com
+</p>
 
 ###  **<div align="center">🌟 Fun Facts</div>**
 
