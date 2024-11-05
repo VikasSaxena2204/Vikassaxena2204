@@ -34,9 +34,9 @@ I love connecting with fellow developers and tech enthusiasts! Feel free to reac
 ###  **<div align="center">🌐 Socials</div>**
 
 **<div align="center">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/2204-vikas-saxena/) 
+
  <a href="https://www.linkedin.com/in/2204-vikas-saxena/">
-    <img src="https://img.shields.io/badge/LinkedIn-574-blue?label=LinkedIn&logo=LinkedIn&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/LinkedIn-250+-blue?label=LinkedIn&logo=LinkedIn&style=for-the-badge" />
   </a>
 </div>**
 
