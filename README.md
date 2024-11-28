@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi there! I'm Vikas Saxena</h1>
 
 <p align="center">
-    A passionate front-end and full-stack developer with a love for coding and technology. I thrive on transforming ideas into reality through clean and efficient code.
+    A passionate front-end and MERN full-stack developer with a love for coding and technology. I thrive on transforming ideas into reality through clean and efficient code.
 </p>
 
 ###  **<div align="center">💫 About Me</div>**
