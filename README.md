@@ -13,7 +13,7 @@ I’m delving deep into frontend and MERN full-stack development, actively explo
 ### **<div align="center">📈 Career Goals</div>**
 
 <p align="center">
-I’m on a mission to become a proficient full-stack developer while actively contributing to open-source projects. Committed to lifelong learning, I continuously seek opportunities to expand my skills, embrace new challenges, and stay ahead in the ever-evolving tech landscape.
+I am on a mission to become a skilled full-stack developer with a strong focus on contributing to impactful open-source projects. Dedicated to lifelong learning, I strive to continuously enhance my technical expertise, embrace new challenges, and stay at the forefront of the rapidly evolving tech landscape.
 </p>
 
 ### **<div align="center">🌍 Connect with Me</div>**
