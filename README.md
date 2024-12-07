@@ -4,7 +4,7 @@
    A passionate front-end and MERN full-stack developer with a profound love for coding and technology. I excel at transforming innovative ideas into reality by developing clean, efficient, and scalable code, delivering seamless and impactful user experiences.
 </p>
 
-###  **<div align="center">💫 About Me</div>**
+###  **<div align="center">💫 About Me 💫</div>**
 
 <p align="center">
 I’m delving deep into frontend and MERN full-stack development, actively exploring the latest trends and technologies. I leverage full-stack development to craft innovative and impactful solutions that address real-world challenges.
@@ -22,7 +22,7 @@ I aim to become a skilled full-stack developer with a strong focus on contributi
 I love connecting with fellow developers and tech enthusiasts! Feel free to reach out: 💬 **Email:** vikassaxena123578@gmail.com
 </p>
 
-###  **<div align="center">🌟 Fun Facts</div>**
+###  **<div align="center">🌟 Fun Facts 🌟</div>**
 
 - I enjoy traveling ✈️.
 - In my spare time, you might find me with my amazing friends 👯, discussing random topics with them and reading tech blogs 👨‍💻.
