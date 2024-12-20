@@ -35,7 +35,7 @@ I love connecting with fellow developers and tech enthusiasts! Feel free to reac
 **<div align="center">
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="2204-vikas-saxena" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/2204-vikas-saxena?trk=profile-badge">Vikas Saxena</a></div>
  <a href="https://www.linkedin.com/in/2204-vikas-saxena/">
-    <img src="https://img.shields.io/badge/LinkedIn-1.2K+-lue?label=LinkedIn&logo=LinkedIn&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/LinkedIn-1.3K+-lue?label=LinkedIn&logo=LinkedIn&style=for-the-badge" />
   </a>
 </div>**
 
