@@ -19,7 +19,7 @@ I aim to become a skilled full-stack developer with a strong focus on contributi
 ### **<div align="center">🌍 Connect with Me</div>**
 
 <p align="center">
-I love connecting with fellow developers and tech enthusiasts! Feel free to reach out: 💬 **Email:** vikassaxena123578@gmail.com
+I love connecting with fellow developers and tech enthusiasts! Feel free to reach out: 💬 **Email-** vikassaxena123578@gmail.com
 </p>
 
 ###  **<div align="center">🌟 Fun Facts 🌟</div>**
@@ -27,7 +27,7 @@ I love connecting with fellow developers and tech enthusiasts! Feel free to reac
 - I enjoy traveling ✈️.
 - In my spare time, you might find me with my amazing friends 👯, discussing random topics with them and reading tech blogs 👨‍💻.
 - I’m currently learning new skills and technologies in Full Stack Development.
-- I have a keen interest in data science and artificial intelligence 👨‍💻, and I’m enthusiastic about exploring how these fields can drive innovation and solve complex problems.
+- I am interested in data science and artificial intelligence 👨‍💻, and I’m enthusiastic about exploring how these fields can drive innovation and solve complex problems.
 
 
 ###  **<div align="center">🌐 Socials</div>**
