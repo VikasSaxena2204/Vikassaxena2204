@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi there! I'm Vikas Saxena</h1>
-
+Hi there
 <p align="center">
    A passionate front-end and MERN full-stack developer with a profound love for coding and technology. I excel at transforming innovative ideas into reality by developing clean, efficient, and scalable code, delivering seamless and impactful user experiences.
 </p>
@@ -89,4 +89,4 @@ I love connecting with fellow developers and tech enthusiasts! Feel free to reac
     </a>
 </p>
 
-<!-- Proudly created with GPRM yes - ( https://gprm.itsvg.in )! -->
+<!-- Proudly created with GPRM - ( https://gprm.itsvg.in )! -->
