@@ -13,7 +13,7 @@ I am deeply immersed in front-end and MERN full-stack development, consistently 
 ### **<div align="center">📈 Career Goals</div>**
 
 <p align="center">
-I aim to become a skilled full-stack developer with a strong focus on contributing to impactful open-source projects. Dedicated to lifelong learning, I strive to continuously enhance my technical expertise, embrace new challenges, and stay at the forefront of the rapidly evolving tech landscape.
+I aim to become a skilled full-stack developer with a strong focus on contributing to impactful open-source projects. Dedicated to lifelong learning, I strive to enhance my technical expertise, embrace new challenges, and stay at the forefront of the rapidly evolving tech landscape.
 </p>
 
 ### **<div align="center">🌍 Connect with Me</div>**
@@ -89,4 +89,4 @@ I love connecting with fellow developers and tech enthusiasts! Feel free to reac
     </a>
 </p>
 
-<!-- Proudly created with GPRM yes - ( https://gprm.itsvg.in )! -->
+<!-- Proudly created with GPRM - ( https://gprm.itsvg.in )! -->
