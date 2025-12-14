@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi there! I'm VIKAS </h1>
 
 <p align="center">
-   A passionate front-end and MERN full-stack developer with a profound love for coding, technology and operations. I excel at transforming innovative ideas into reality by developing clean, efficient, and scalable code, delivering seamless and impactful user experiences.
+   A passionate front-end and MERN full-stack developer with a profound love for coding, technology and tech operations. I excel at transforming innovative ideas into reality by developing clean, efficient, and scalable code, delivering seamless and impactful user experiences.
 </p>
 
 ###  **<div align="center">💫 About Me 💫</div>**
