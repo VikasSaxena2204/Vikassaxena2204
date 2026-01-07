@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi there! I am Vikas Saxena </h1>
+<h1 align="center">👋 Hi there! I'm Vikas Saxena </h1>
 
 <p align="center">
    A passionate front-end and MERN full-stack developer with a profound love for coding, technology and tech operations. I excel at transforming innovative ideas into reality by developing clean, efficient, and scalable code, delivering seamless and impactful user experiences.
