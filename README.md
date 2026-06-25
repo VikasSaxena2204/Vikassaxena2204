@@ -22,12 +22,12 @@ My goal is to grow as a software professional by strengthening my expertise in w
 I love connecting with fellow developers and tech enthusiasts! Feel free to reach out: 💬 **Email:-** vikassaxena123578@gmail.com
 </p>
 
-###  **<div align="center">🌟 Fun Facts 🌟</div>**
+### **<div align="center">🌟 Fun Facts 🌟</div>**
 
-- I enjoy traveling ✈️.
-- In my spare time, you might find me with my amazing friends 👯, discussing random topics with them and reading tech blogs 👨‍💻.
-- I’m currently learning new skills and technologies in Full Stack Development.
-- I am interested in data science and artificial intelligence 👨‍💻, and I’m enthusiastic about exploring how these fields can drive innovation and solve complex problems.
+* I enjoy traveling and exploring new places ✈️.
+* In my spare time, I enjoy connecting with friends, discussing technology, and reading tech blogs and industry updates 👨‍💻.
+* I’m continuously learning new technologies and improving my skills in web development, software engineering, and technical problem-solving.
+* I have a strong interest in AI Techs, Data Science, and emerging technologies, and enjoy exploring how they can be used to solve real-world challenges 🚀.
 
 
 ###  **<div align="center">🌐 Socials</div>**
