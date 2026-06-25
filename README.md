@@ -1,19 +1,19 @@
 <h1 align="center">👋 Hi there! I'm Vikas </h1>
 
 <p align="center">
-   A passionate front-end and MERN full-stack developer with a profound love for coding, technology and tech operations. I excel at transforming innovative ideas into reality by developing clean, efficient, and scalable code, delivering seamless and impactful user experiences.
+  A Computer Science Engineering graduate with experience in frontend development, web operations, and technical support. Passionate about building responsive web applications using React.js and modern web technologies, solving technical challenges, and delivering reliable user-focused digital experiences.
 </p>
 
-###  **<div align="center">💫 About Me 💫</div>**
+### **<div align="center">💫 About Me 💫</div>**
 
 <p align="center">
-I am deeply immersed in front-end and MERN full-stack development, consistently exploring the latest trends, tools, and technologies to stay at the forefront of innovation. My passion lies in leveraging full-stack expertise to design and deliver creative, impactful solutions that effectively address real-world challenges and elevate user experiences.
+I am a Computer Science Engineering graduate with experience in frontend development, web operations, and technical support. I enjoy building responsive web applications, solving technical challenges, and improving digital experiences using modern web technologies. Passionate about continuous learning, I actively explore new tools, frameworks, and technologies while strengthening my skills in software development, troubleshooting, and application support.
 </p>
 
 ### **<div align="center">📈 Career Goals</div>**
 
 <p align="center">
-I aim to become a skilled full-stack developer with a strong focus on contributing to impactful open-source projects. Dedicated to lifelong learning, I strive to enhance my technical expertise, embrace new challenges, and stay at the forefront of the rapidly evolving tech landscape.
+My goal is to grow as a software professional by strengthening my expertise in web development, software engineering, and technical problem-solving. I aim to contribute to impactful products, collaborate with talented teams, expand my knowledge of modern technologies, and continuously improve my ability to build and support reliable digital solutions.
 </p>
 
 ### **<div align="center">🌍 Connect with Me</div>**
