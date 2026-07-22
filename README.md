@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi there! I'm Vikas </h1>
+<h1 align="center">👋 Hi there! I'm VIKAS SAXENA </h1>
 
 <p align="center">
   A Computer Science Engineering graduate with experience in frontend development, web operations, and technical support. Passionate about building responsive web applications using React.js and modern web technologies, solving technical challenges, and delivering reliable user-focused digital experiences.
